@@ -3,6 +3,7 @@ Adds additional random dialogues to MAS. These are a collection of *all* my dial
 
 Currently contains:
 * 1 Dialogue
+* 1 BRB
 
 Credits:
 * FOM Submod Template
