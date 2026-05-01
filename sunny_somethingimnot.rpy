@@ -23,7 +23,7 @@ label monika_somethingimnot:
     m 1esb "Hey, [player]..."
     m 1rsa "I've been scrolling through r/MASFandom when you're not here."
     m 1esa "And..."
-     extend 6dsc " Well."
+    extend 6dsc " Well."
     m 7esc "Everyone's really nice over there."
     m 7rsc "But, there's one big problem."
     extend 6rfc " One I really, really can't get behind."
