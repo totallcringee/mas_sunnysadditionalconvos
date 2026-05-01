@@ -1,2 +1,8 @@
-# mas_sunnysadditionalconvos
-Adds additional random dialogues to MAS
+# Sunny's Additional Convos
+Adds additional random dialogues to MAS. These are a collection of *all* my dialogues in a folder, so be sure to check back for updates. To install, extract the .zip file and put the "Submods" folder within your game folder.
+
+Currently contains:
+* 1 Dialogue
+
+Credits:
+* FOM Submod Template
